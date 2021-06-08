@@ -1,0 +1,8 @@
+# github.com/fsnotify/fsnotify v1.4.9
+github.com/fsnotify/fsnotify
+# github.com/unrolled/render v1.4.0
+## explicit
+github.com/unrolled/render
+# golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
